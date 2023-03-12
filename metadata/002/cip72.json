@@ -1,0 +1,54 @@
+{
+  "subject": "FakeRayWallet-003",
+  "projectName": "FakeRayWallet 003",
+  "DAppName": "FakeRayWallet 003",
+  "link": "https://fakeraywallet.testdapp.x/app",
+  "DAppURL": "https://fakeraywallet.testdapp.x/app",
+  "category": "DeFi",
+  "DAppCategory": "DeFi",
+  "subCategory": "",
+  "description": {
+    "short": "Short summary that will be shown also on classic view card boards",
+    "long": "This is a dApp description...????"
+  },
+  "DAppSummary": "Short summary that will be shown also on classic view card boards",
+  "DAppDescription": "This is a dApp description...",
+  "DAppCompanyURL": "https://www.testdapp.x",
+  "releases": [
+    {
+      "releaseNumber": 1,
+      "releaseName": "V1",
+      "scripts": [
+        {
+          "id": "PmNd6w",
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "scripts": [
+    {
+      "id": "PmNd6w",
+      "name": "Marketplace",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "versions": [
+        {
+          "version": 1,
+          "plutusVersion": 1,
+          "fullScriptHash": "711dcb4e80d7cd0ed384da5375661cb1e074e7feebd73eea236cd68192",
+          "scriptHash": "1dcb4e80d7cd0ed384da5375661cb1e074e7feebd73eea236cd68192",
+          "contractAddress": "addr1wywukn5q6lxsa5uymffh2esuk8s8fel7a0tna63rdntgrysv0f3ms"
+        }
+      ]
+    }
+  ],
+  "DAppCompanyName": "The Test Dapps Company",
+  "DAppCompanyEmailAddress": "info@testdapp.x",
+  "DAppLogo": "https://github.com/lucadonazzon/cip72/blob/main/metadata/002/DJAUs3nJ_400x400.jpg",
+  "DAppScreenshots": [
+    "https://github.com/lucadonazzon/cip72/blob/main/metadata/002/FUMXInlX0AYTlwG?format=jpg&name=4096x4096",
+    "https://github.com/lucadonazzon/cip72/blob/main/metadata/002/6fqipOaTvu9Cm2jAh8yiAhhD9gr9XLInsB63vjDD_hM.webp"
+  ],
+  "DAppPermissionToAggregate": true
+}
