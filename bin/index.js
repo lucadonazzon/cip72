@@ -119,13 +119,13 @@ const askQuestions2 = () => {
       message: "What's the release name?",
       default: 'My first release'
     },
-    {
-      type: 'list',
-      name: '_offChainStorage',
-      message: 'Where are you storing offchain metadata?',
-      choices: ["CIP-26", "IPFS", "GITHUB", "BITBUCKET"],
-      default: "GITHUB"
-    },
+    // {
+    //   type: 'list',
+    //   name: '_offChainStorage',
+    //   message: 'Where are you storing offchain metadata?',
+    //   choices: ["CIP-26", "IPFS", "GITHUB", "BITBUCKET"],
+    //   default: "GITHUB"
+    // },
     {
       name: "_offChainStoragePath",
       type: "input",
@@ -204,10 +204,10 @@ const run = async () => {
     const answers1 = await askQuestions1();
     const { _cipJsonFilePath, _secretKey, _publicKey } = answers1
     const answers2 = await askQuestions2();
-    const { _metadataFilePath, _actionType, _releaseNumber, _releaseName, _offChainStorage, _offChainStoragePath } = answers2;
+    const { _metadataFilePath, _actionType, _releaseNumber, _releaseName, _offChainStoragePath } = answers2;
     const _rootHash = calculateRootHash(_cipJsonFilePath)
     console.log(chalk.yellowBright.bgBlue.bold(_.pad(`Calculated rootHash: ${_rootHash}`, PAD_END_SIZE)))
-    const out2 = generateMetadataJsonFile(_cipJsonFilePath, _metadataFilePath, _actionType, _releaseNumber, _releaseName, _offChainStorage, _offChainStoragePath, _rootHash, _secretKey, _publicKey)
+    const out2 = generateMetadataJsonFile(_cipJsonFilePath, _metadataFilePath, _actionType, _releaseNumber, _releaseName, _offChainStoragePath, _rootHash, _secretKey, _publicKey)
     if (out2 === true) console.log(chalk.yellowBright.bgBlue.bold(_.pad(`Metadata.json generated: ${_metadataFilePath}`, PAD_END_SIZE)))
 
     // ask questions3: CIP-26 server phase

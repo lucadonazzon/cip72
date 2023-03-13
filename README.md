@@ -104,25 +104,38 @@ To submit the transaction:\
 
 
 
+https://www.shorturl.at/
 
 
-https://github.com/lucadonazzon/cip72/blob/main/metadata/001/dapp-001.json
-
-
-https://github.com/lucadonazzon/cip72/metadata/007/cip72.json
 
 
 ** 001 **
 BLOCK:0536732 █ TX:65 █ META   { label: 1667, content: {"GITHUB":"https://github.com/lucadonazzon/cip72/metadata/001/cip72.json","rootHash":"62479bde5c1209b769373d235f1c95fb719e3505c9b4c15509e0a6fab834419e","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"12806bc4d317bad140c82020a11d9b824f78391a440c6a9bd4692f9e98f16bfd","s":"60fd4f3da3db5717f0fc49c4e6b22f0cd91c12ac7503121c62d93566b6177206"},"subject":"FakeNMKR-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
 
+https://github.com/lucadonazzon/cip72/blob/main/metadata/001/cip72.json
+shorturl.at/dqC28
+BLOCK:0539136 █ TX:71 █ META   { label: 1667, content: {"metadata":["shorturl.at/dqC28"],"rootHash":"9128f4aec38d0034b8643328e7889fc7624f4db048066b51115c764174452264","schema_version":"0.0.1","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"50f3063601240b0029b9661ecee6f80a23774f6cb35cb3a5ac7db5fbc8e7f093","s":"c4d51d2ac6a534724eb144e59034b472aeee5edc2ec15b9001f96f202eec3204"},"subject":"FakeNMKR-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
+
 ** 002 **
 BLOCK:0536758 █ TX:29 █ META   { label: 1667, content: {"GITHUB":"https://github.com/lucadonazzon/cip72/metadata/002/cip72.json","rootHash":"a259d8facd95e2fc20fb9017237dc3f311e6ca7ac4ba30dae24bac7fbe75c088","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"981ba0a9f0b9599ef6a6d9ad1530bac070c5c1b6283b97ea5ed08e14e6de95ec","s":"1e2fd2c5b0c96fd1b2471b62e2ab7537795b72d9f27008bd7c9e9fefd45b8c08"},"subject":"FakeRayWallet-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
+
+https://github.com/lucadonazzon/cip72/blob/main/metadata/002/cip72.json
+shorturl.at/yET03
+BLOCK:0539144 █ TX:29 █ META   { label: 1667, content: {"metadata":["shorturl.at/yET03"],"rootHash":"b820f38acf06085220d19d3b7da0062d8a27fb0113b12c3885afffbbc67354f8","schema_version":"0.0.1","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"a6f004d6d810f363ff866046cad9a66f422004a80f2b4ba9c24f7a8723d004fc","s":"e186556e3d72660fdfc313a18e972e7f26321f833c689e8f021407dd7f8f3d0f"},"subject":"FakeRayWallet-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
+
 
 ** 003 **
 BLOCK:0536770 █ TX:03 █ META   { label: 1667, content: {"GITHUB":"https://github.com/lucadonazzon/cip72/metadata/003/cip72.json","rootHash":"686bf8311543301e9f0eef90b96f3dc1d42a4331c737616d2ef972e630ad56a3","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"12837f5503d459df29cee8161ad2a177a3531bffa9fdebde11f38116338bcd97","s":"0936af9d8f150d550cfe364e8f33c35a7023ecebeed4fb2629ef163dafe56500"},"subject":"FakeArtano-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
 
+https://github.com/lucadonazzon/cip72/blob/main/metadata/003/cip72.json
+shorturl.at/vQRV9
+BLOCK:0539150 █ TX:31 █ META   { label: 1667, content: {"metadata":["shorturl.at/vQRV9"],"rootHash":"686bf8311543301e9f0eef90b96f3dc1d42a4331c737616d2ef972e630ad56a3","schema_version":"0.0.1","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"657d1930be8da77a03f5c1fa784affbf7d08fbfc9648581bfb5e974b52f107f6","s":"6c1bc8448e52c850e19a76e9729e30e1a116d7b0d4c1cf998116dfc9254e3802"},"subject":"FakeArtano-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
+
 ** 004 **
 BLOCK:0536817 █ TX:00 █ META   { label: 1667, content: {"GITHUB":"https://github.com/lucadonazzon/cip72/metadata/004/cip72.json","rootHash":"e778b782c79a2b2961dbfdc579485721a1e225b174016269d30226add46707b5","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"fe4493f7e0f09acdd94d192232191e84be4ab92bc41ffff4054af305b840d7ec","s":"8581aa5fb8fdb3cc7f002b0f941265d626f3c68076eea9e5aabaf6d617897701"},"subject":"FakeBlockfrost-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
+
+https://github.com/lucadonazzon/cip72/blob/main/metadata/004/cip72.json
+shorturl.at/vQRV9
 
 ** 005 **
 BLOCK:0536829 █ TX:60 █ META   { label: 1667, content: {"GITHUB":"https://github.com/lucadonazzon/cip72/metadata/005/cip72.json","rootHash":"ba99831cce7a987eb922af91f523eac374dcdd14a49914a05b8b79e1af3b6485","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"48b52088b04c9a3a22956756fc48cf37b5798c2e262a42bfb0c94566c206af5c","s":"d6888e50b86c12ea2fca49e2b95df21f0d7ebaa259f9ca9240070d5c1655340f"},"subject":"FakeJpgStore-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }

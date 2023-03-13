@@ -112,7 +112,7 @@ const calculateRootHash = (cipFilePath) => {
 // **********************************************************************************************************
 // **********************************************************************************************************
 
-const generateMetadataJsonFile = (cipJsonFilePath, metadataFilePath, actionType, releaseNumber, releaseName, offChainStorage, offChainStoragePath, cipRootHash, secretKey, publicKey) => {
+const generateMetadataJsonFile = (cipJsonFilePath, metadataFilePath, actionType, releaseNumber, releaseName, offChainStoragePath, cipRootHash, secretKey, publicKey) => {
   try {
     const rawdata = fs.readFileSync(cipJsonFilePath);
     const { subject } = JSON.parse(rawdata);
@@ -120,13 +120,17 @@ const generateMetadataJsonFile = (cipJsonFilePath, metadataFilePath, actionType,
     const metadataJson = {
       "1667": {
         subject,
+        rootHash: cipRootHash,
+        metadata: [
+          offChainStoragePath
+        ],
+        "schema_version": "0.0.1",
         type: {
           action: actionType,
           releaseNumber,
           releaseName
         },
-        rootHash: cipRootHash,
-        [offChainStorage]: offChainStoragePath,
+        // [offChainStorage]: offChainStoragePath,
       }
     }
 
