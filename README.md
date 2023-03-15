@@ -129,7 +129,7 @@ BLOCK:0536770 █ TX:03 █ META   { label: 1667, content: {"GITHUB":"https://gi
 
 https://github.com/lucadonazzon/cip72/blob/main/metadata/003/cip72.json
 shorturl.at/vQRV9
-BLOCK:0539176 █ TX:33 █ META   { label: 1667, content: {"metadata":["shorturl.at/vQRV9"],"rootHash":"5eda40a8c0ed34658224f34da5a822a97a29c21b04b6e81b605029311d5b61d4","schema_version":"0.0.1","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"032b88fb3cd17480665e9aa13435fd87759fcb316ab723480b3af09a75a57568","s":"c671a4ab11735437a70aafcc524bb3a2691b1791613630ff488e2d1967272704"},"subject":"FakeArtano-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
+BLOCK:0546062 █ TX:01 █ META   { label: 1667, content: {"metadata":["shorturl.at/vQRV9"],"rootHash":"6613ca930085dbc83fb26b2f3e7f8739cb996f0a24e089421d82a71ae3d035cb","schema_version":"0.0.1","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"98cdbbbcc76d06f4aa64505da31177f21c6a925240ca4ea5c255bd0775844fec","s":"9a9ca4710022511ea4065787099e7560093e0ca7974f683da31c96fb7c1b1c0c"},"subject":"FakeArtano-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
 
 
 ** 004 **
@@ -137,7 +137,7 @@ BLOCK:0536817 █ TX:00 █ META   { label: 1667, content: {"GITHUB":"https://gi
 
 https://github.com/lucadonazzon/cip72/blob/main/metadata/004/cip72.json
 shorturl.at/enoJO
-BLOCK:0539184 █ TX:21 █ META   { label: 1667, content: {"metadata":["shorturl.at/enoJO"],"rootHash":"39ab21bc5aaf17c2108c77b4e845520a30bf074c3023a76033bde2a48afd812f","schema_version":"0.0.1","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"ff953ee5389f2aeb629cf4feed71ee2208cf4818719d09f147b971528779556f","s":"bf140fd0bf07501fcdfab3982b299a1a4610352267feab802fa103053e7b1308"},"subject":"FakeBlockfrost-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
+BLOCK:0546066 █ TX:02 █ META   { label: 1667, content: {"metadata":["shorturl.at/enoJO"],"rootHash":"bd4bfbb01b5f6ad1bc55d6098230947f852db44c7bec6e2b9e897209b8bcd837","schema_version":"0.0.1","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"9105fd4f4fc127fe3c437a8b530ba3cb2a4a80a5528f04313043b16d434e1bf3","s":"58017a69094b4f93a51412f1b9503f921ed209bc259ac3c511240b9314034701"},"subject":"FakeBlockfrost-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
 
 
 ** 005 **
@@ -145,7 +145,8 @@ BLOCK:0536829 █ TX:60 █ META   { label: 1667, content: {"GITHUB":"https://gi
 
 https://github.com/lucadonazzon/cip72/blob/main/metadata/005/cip72.json
 shorturl.at/aiM13
-BLOCK:0539363 █ TX:21 █ META   { label: 1667, content: {"metadata":["shorturl.at/aiM13"],"rootHash":"d60a76cf728d73486e06b8ca879e1b8afb5b294784bc8f65d5d9378bff73e8af","schema_version":"0.0.1","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"f0dfa105aec6bd75f931c7e2ecc5b3328b94c9d728ac99a9c860ae1a6b5a231f","s":"89830174c205484f4ca353c85d03916ff4d3297e406b6943cf4a3cb318087300"},"subject":"FakeJpgStore-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
+BLOCK:0546076 █ TX:03 █ META   { label: 1667, content: {"metadata":["shorturl.at/aiM13"],"rootHash":"7accad357621b035f6d6b746e12908fca91a5dcf84a50a854fead109a0e0c502","schema_version":"0.0.1","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"5f17ab265d75b9900462ca3b24ba0d4dc1506bf3e6ce79806a0fc074f572cd09","s":"204918f654da427af3c865fbbb053976d6032eca025f47286ba1652bdb557801"},"subject":"FakeJpgStore-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
+
 
 
 ** 006 **
@@ -153,11 +154,12 @@ BLOCK:0536845 █ TX:27 █ META   { label: 1667, content: {"GITHUB":"https://gi
 
 https://github.com/lucadonazzon/cip72/blob/main/metadata/006/cip72.json
 shorturl.at/dejoC
-BLOCK:0539370 █ TX:25 █ META   { label: 1667, content: {"metadata":["shorturl.at/dejoC"],"rootHash":"b6720337b0dec7f7b52121b11e2c111a76c93882a03489e521144e8ffdf1d3b7","schema_version":"0.0.1","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"ce18f0a487c2a04a052da6763708b986e9216b90d68d795add84ee04177d4f93","s":"92fdb827e54acb2f56a3fed71c80f2bd440a2ed7e21341c1b8bc7f59c54b720b"},"subject":"FakeSundaySwap-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
+BLOCK:0546079 █ TX:00 █ META   { label: 1667, content: {"metadata":["shorturl.at/dejoC"],"rootHash":"1856f9528e7a67958f52c14376a0374e911ea70869b374f9e8ba3a023c4bb145","schema_version":"0.0.1","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"fd9d34429fc3ad8749250c632fa7d541b3a44d9a76e57a1f3d2da3126f64ee0b","s":"edd5112f600e695cb50a98e35bb4cd66d8b4369710f4498e94ac4b00b95f050b"},"subject":"FakeSundaySwap-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
+
 
 ** 007 **
 BLOCK:0537448 █ TX:32 █ META   { label: 1667, content: {"GITHUB":"https://github.com/lucadonazzon/cip72/metadata/007/cip72.json","rootHash":"8a02864cea954b322e7ece9038ae12767b497c351b214978245e468e0ecb5119","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"f82ad4a5d90d34a854388f05c8e84af4a4c002247f6451f0d87b6162ec1c1731","s":"f5d91e779d13be5f7407d855ae0bde631a216628850b16caa0e3e60262db8005"},"subject":"FakeNMKR-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
 
 https://github.com/lucadonazzon/cip72/blob/main/metadata/007/cip72.json
 shorturl.at/syDL4
-BLOCK:0539379 █ TX:18 █ META   { label: 1667, content: {"metadata":["shorturl.at/syDL4"],"rootHash":"96595dfd52e504ce5df31322f9e51c5c999bcf5a7938230f583e0bab4510efcc","schema_version":"0.0.1","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"51de552bab3e46bf6e54fa0f2695f0192275e616833e8a4989b6413659f8ee09","s":"cc88ad150891174b88d1a77022e4d5b7b928a81a5b2d394d48f8564ddd96af0d"},"subject":"FakeNMKR-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }
+BLOCK:0546080 █ TX:04 █ META   { label: 1667, content: {"metadata":["shorturl.at/syDL4"],"rootHash":"44b3cde5bbe2da1394ee7fc22d968c5574377f7496da4e9c6cbd77ef71d23b1c","schema_version":"0.0.1","signature":{"algo":"Ed25519−EdDSA","pub":"9b4139c173fd74898d4a562ef38adf56d49985fc749fe41149bad9a74006e55c","r":"e2bf9709dc73647652c7a8f6eaee7c5067c4eb152ab6b85c0b10c00e14b7428c","s":"a045af44da487c17ee72ea75900023552953b0ef40607c8cad2f7dfef756a00b"},"subject":"FakeNMKR-003","type":{"action":"REGISTER","releaseName":"My first release","releaseNumber":"0.0.1"}} }

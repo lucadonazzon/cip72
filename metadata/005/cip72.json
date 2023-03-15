@@ -2,51 +2,20 @@
   "subject": "FakeJpgStore-003",
   "projectName": "FakeJpgStore 003",
   "link": "https://fakejpgstore.testdapp.x/app",
+  "logo": "https://github.com/lucadonazzon/cip72/blob/main/metadata/005/5ckJfS6S_400x400.jpg",
   "category": "Market Place",
-  "subCategory": "",
   "description": {
     "short": "Short summary that will be shown also on classic view card boards",
     "long": "This is a dApp description...????"
   },
-  "social": {
-    "website": "https://www.testdapp.x"
-  },
-  "companyName": "The Test Dapps Company",
-  "companyEmailAddress": "info@testdapp.x",
-  "logo": "https://github.com/lucadonazzon/cip72/blob/main/metadata/005/5ckJfS6S_400x400.jpg",
   "screenshots": [
     "https://github.com/lucadonazzon/cip72/blob/main/metadata/005/jpgstore-dapp-marketplaces-cardano-image1-500x315_166f1ee494d48548d017ecfef3b326c0.png",
     "https://github.com/lucadonazzon/cip72/blob/main/metadata/005/jpgstore-dapp-marketplaces-cardano-image2-500x315_7931a6018a023f7a0ae66c933be6add9.png",
     "https://github.com/lucadonazzon/cip72/blob/main/metadata/005/jpgstore-dapp-marketplaces-cardano-image3-500x315_133030e7c31beb39d04c3492d5acaaf1.png"
   ],
-  "permissionToAggregate": true,
-  "releases": [
-    {
-      "releaseNumber": 1,
-      "releaseName": "V1",
-      "scripts": [
-        {
-          "id": "PmNd6w",
-          "version": 1
-        }
-      ]
-    }
-  ],
-  "scripts": [
-    {
-      "id": "PmNd6w",
-      "name": "Marketplace",
-      "purpose": "SPEND",
-      "type": "PLUTUS",
-      "versions": [
-        {
-          "version": 1,
-          "plutusVersion": 1,
-          "fullScriptHash": "711dcb4e80d7cd0ed384da5375661cb1e074e7feebd73eea236cd68192",
-          "scriptHash": "1dcb4e80d7cd0ed384da5375661cb1e074e7feebd73eea236cd68192",
-          "contractAddress": "addr1wywukn5q6lxsa5uymffh2esuk8s8fel7a0tna63rdntgrysv0f3ms"
-        }
-      ]
-    }
-  ]
+  "social": {
+    "companyName": "The Test Dapps Company",
+    "companyEmail": "info@testdapp.x",
+    "website": "https://www.testdapp.x"
+  }
 }
