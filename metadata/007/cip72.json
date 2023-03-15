@@ -1,19 +1,25 @@
 {
   "subject": "FakeNMKR-003",
   "projectName": "FakeNMKR 003",
-  "DAppName": "FakeNMKR 003",
   "link": "https://fakenmkr.testdapp.x/app",
-  "DAppURL": "https://fakenmkr.testdapp.x/app",
   "category": "NFT",
-  "DAppCategory": "NFT",
   "subCategory": "",
   "description": {
     "short": "Short summary that will be shown also on classic view card boards",
     "long": "This is a dApp description...????"
   },
-  "DAppSummary": "Short summary that will be shown also on classic view card boards",
-  "DAppDescription": "This is a dApp description...",
-  "DAppCompanyURL": "https://www.testdapp.x",
+  "social": {
+    "website": "https://www.testdapp.x"
+  },
+  "companyName": "The Test Dapps Company",
+  "companyEmailAddress": "info@testdapp.x",
+  "logo": "https://github.com/lucadonazzon/cip72/blob/main/metadata/007/zUqnLbfe_400x400.jpg",
+  "screenshots": [
+    "https://github.com/lucadonazzon/cip72/blob/main/metadata/007/62f5137f9abfb3a9a872afa3_mint.png",
+    "https://github.com/lucadonazzon/cip72/blob/main/metadata/007/62f5137f270e0c520b0054be_games.png",
+    "https://github.com/lucadonazzon/cip72/blob/main/metadata/007/63bc4659e673c436a3dab8e1_NMKR-Store.png"
+  ],
+  "permissionToAggregate": true,
   "releases": [
     {
       "releaseNumber": 1,
@@ -42,14 +48,5 @@
         }
       ]
     }
-  ],
-  "DAppCompanyName": "The Test Dapps Company",
-  "DAppCompanyEmailAddress": "info@testdapp.x",
-  "DAppLogo": "https://github.com/lucadonazzon/cip72/blob/main/metadata/007/zUqnLbfe_400x400.jpg",
-  "DAppScreenshots": [
-    "https://github.com/lucadonazzon/cip72/blob/main/metadata/007/62f5137f9abfb3a9a872afa3_mint.png",
-    "https://github.com/lucadonazzon/cip72/blob/main/metadata/007/62f5137f270e0c520b0054be_games.png",
-    "https://github.com/lucadonazzon/cip72/blob/main/metadata/007/63bc4659e673c436a3dab8e1_NMKR-Store.png"
-  ],
-  "DAppPermissionToAggregate": true
+  ]
 }

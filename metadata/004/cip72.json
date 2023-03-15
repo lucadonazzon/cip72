@@ -1,19 +1,25 @@
 {
   "subject": "FakeBlockfrost-003",
   "projectName": "FakeBlockfrost 003",
-  "DAppName": "FakeBlockfrost 003",
   "link": "https://fakeblockfrost.testdapp.x/app",
-  "DAppURL": "https://fakeblockfrost.testdapp.x/app",
   "category": "Development",
-  "DAppCategory": "Development",
   "subCategory": "",
   "description": {
     "short": "Short summary that will be shown also on classic view card boards",
     "long": "This is a dApp description...????"
   },
-  "DAppSummary": "Short summary that will be shown also on classic view card boards",
-  "DAppDescription": "This is a dApp description...",
-  "DAppCompanyURL": "https://www.testdapp.x",
+  "social": {
+    "website": "https://www.testdapp.x"
+  },
+  "companyName": "The Test Dapps Company",
+  "companyEmailAddress": "info@testdapp.x",
+  "logo": "https://github.com/lucadonazzon/cip72/blob/main/metadata/004/izosb2Ch_400x400.jpg",
+  "screenshots": [
+    "https://github.com/lucadonazzon/cip72/blob/main/metadata/004/FanRKE3WQAADeC1.jpeg",
+    "https://github.com/lucadonazzon/cip72/blob/main/metadata/004/Fg5N8jxWYAQnh8w.jpeg",
+    "https://github.com/lucadonazzon/cip72/blob/main/metadata/004/FVXta6OXEAEAYTU.jpeg"
+  ],
+  "permissionToAggregate": true,
   "releases": [
     {
       "releaseNumber": 1,
@@ -42,14 +48,5 @@
         }
       ]
     }
-  ],
-  "DAppCompanyName": "The Test Dapps Company",
-  "DAppCompanyEmailAddress": "info@testdapp.x",
-  "DAppLogo": "https://github.com/lucadonazzon/cip72/blob/main/metadata/004/izosb2Ch_400x400.jpg",
-  "DAppScreenshots": [
-    "https://github.com/lucadonazzon/cip72/blob/main/metadata/004/FanRKE3WQAADeC1.jpeg",
-    "https://github.com/lucadonazzon/cip72/blob/main/metadata/004/Fg5N8jxWYAQnh8w.jpeg",
-    "https://github.com/lucadonazzon/cip72/blob/main/metadata/004/FVXta6OXEAEAYTU.jpeg"
-  ],
-  "DAppPermissionToAggregate": true
+  ]
 }

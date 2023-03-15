@@ -1,19 +1,24 @@
 {
   "subject": "FakeSundaySwap-003",
   "projectName": "FakeSundaySwap 003",
-  "DAppName": "FakeSundaySwap 003",
   "link": "https://fakesundayswap.testdapp.x/app",
-  "DAppURL": "https://fakesundayswap.testdapp.x/app",
   "category": "DeFi",
-  "DAppCategory": "DeFi",
   "subCategory": "",
   "description": {
     "short": "Short summary that will be shown also on classic view card boards",
-    "long": "This is a dApp description...????"
+    "long": "This is a dApp description..."
   },
-  "DAppSummary": "Short summary that will be shown also on classic view card boards",
-  "DAppDescription": "This is a dApp description...",
-  "DAppCompanyURL": "https://www.testdapp.x",
+  "social": {
+    "website": "https://www.testdapp.x"
+  },
+  "companyName": "The Test Dapps Company",
+  "companyEmailAddress": "info@testdapp.x",
+  "logo": "https://github.com/lucadonazzon/cip72/blob/main/metadata/006/jftnVq8h_400x400.jpg",
+  "screenshots": [
+    "https://github.com/lucadonazzon/cip72/blob/main/metadata/006/6c248bb8-1a68-4329-9d73-c847e0b36e5d.png",
+    "https://github.com/lucadonazzon/cip72/blob/main/metadata/006/1500x500.jpeg"
+  ],
+  "DAppPermissionToAggregate": true,
   "releases": [
     {
       "releaseNumber": 1,
@@ -42,13 +47,5 @@
         }
       ]
     }
-  ],
-  "DAppCompanyName": "The Test Dapps Company",
-  "DAppCompanyEmailAddress": "info@testdapp.x",
-  "DAppLogo": "https://github.com/lucadonazzon/cip72/blob/main/metadata/006/jftnVq8h_400x400.jpg",
-  "DAppScreenshots": [
-    "https://github.com/lucadonazzon/cip72/blob/main/metadata/006/6c248bb8-1a68-4329-9d73-c847e0b36e5d.png",
-    "https://github.com/lucadonazzon/cip72/blob/main/metadata/006/1500x500.jpeg"
-  ],
-  "DAppPermissionToAggregate": true
+  ]
 }
